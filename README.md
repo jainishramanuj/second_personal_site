@@ -1,2 +1,3 @@
 # second_personal_site
-it contain my personal details and CV.
+It contain my personal details and CV.
+https://jainishramanuj.github.io/second_personal_site/
